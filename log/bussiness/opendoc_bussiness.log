@@ -1,0 +1,28 @@
+[16:59:53:531] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:34) - 请求地址 : http://localhost:8000/
+[16:59:53:531] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:35) - HTTP METHOD : GET
+[16:59:53:531] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:36) - IP : 127.0.0.1
+[16:59:53:532] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:37) - CLASS_METHOD : com.example.log4jyml.controller.IndexController.helloworld
+[16:59:53:532] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:42) - 参数 : []
+[16:59:53:535] [INFO] - com.example.log4jyml.util.WebLogAspect.doAround(WebLogAspect.java:56) - 耗时 : 4
+[16:59:53:535] [INFO] - com.example.log4jyml.util.WebLogAspect.doAfterReturning(WebLogAspect.java:48) - 返回值 : helloworld
+[18:46:47:435] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:34) - 请求地址 : https://localhost:8888/
+[18:46:47:435] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:35) - HTTP METHOD : GET
+[18:46:47:435] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:36) - IP : 127.0.0.1
+[18:46:47:436] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:37) - CLASS_METHOD : com.example.log4jyml.controller.IndexController.helloworld
+[18:46:47:436] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:42) - 参数 : []
+[18:46:47:439] [INFO] - com.example.log4jyml.util.WebLogAspect.doAround(WebLogAspect.java:56) - 耗时 : 4
+[18:46:47:439] [INFO] - com.example.log4jyml.util.WebLogAspect.doAfterReturning(WebLogAspect.java:48) - 返回值 : helloworld
+[18:46:51:713] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:34) - 请求地址 : https://localhost:8888/
+[18:46:51:713] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:35) - HTTP METHOD : GET
+[18:46:51:713] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:36) - IP : 127.0.0.1
+[18:46:51:714] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:37) - CLASS_METHOD : com.example.log4jyml.controller.IndexController.helloworld
+[18:46:51:714] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:42) - 参数 : []
+[18:46:51:714] [INFO] - com.example.log4jyml.util.WebLogAspect.doAround(WebLogAspect.java:56) - 耗时 : 1
+[18:46:51:714] [INFO] - com.example.log4jyml.util.WebLogAspect.doAfterReturning(WebLogAspect.java:48) - 返回值 : helloworld
+[18:47:05:018] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:34) - 请求地址 : https://localhost:8888/
+[18:47:05:019] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:35) - HTTP METHOD : GET
+[18:47:05:019] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:36) - IP : 127.0.0.1
+[18:47:05:019] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:37) - CLASS_METHOD : com.example.log4jyml.controller.IndexController.helloworld
+[18:47:05:019] [INFO] - com.example.log4jyml.util.WebLogAspect.doBefore(WebLogAspect.java:42) - 参数 : []
+[18:47:05:020] [INFO] - com.example.log4jyml.util.WebLogAspect.doAround(WebLogAspect.java:56) - 耗时 : 2
+[18:47:05:020] [INFO] - com.example.log4jyml.util.WebLogAspect.doAfterReturning(WebLogAspect.java:48) - 返回值 : helloworld

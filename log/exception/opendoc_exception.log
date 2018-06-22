@@ -1,0 +1,8 @@
+[16:59:53:535] [ERROR] - com.example.log4jyml.controller.IndexController.helloworld(IndexController.java:16) - getExceptionLogger===日志测试
+[16:59:53:535] [ERROR] - com.example.log4jyml.controller.IndexController.helloworld(IndexController.java:16) - getExceptionLogger===日志测试
+[18:46:47:439] [ERROR] - com.example.log4jyml.controller.IndexController.helloworld(IndexController.java:16) - getExceptionLogger===日志测试
+[18:46:47:439] [ERROR] - com.example.log4jyml.controller.IndexController.helloworld(IndexController.java:16) - getExceptionLogger===日志测试
+[18:46:51:714] [ERROR] - com.example.log4jyml.controller.IndexController.helloworld(IndexController.java:16) - getExceptionLogger===日志测试
+[18:46:51:714] [ERROR] - com.example.log4jyml.controller.IndexController.helloworld(IndexController.java:16) - getExceptionLogger===日志测试
+[18:47:05:020] [ERROR] - com.example.log4jyml.controller.IndexController.helloworld(IndexController.java:16) - getExceptionLogger===日志测试
+[18:47:05:020] [ERROR] - com.example.log4jyml.controller.IndexController.helloworld(IndexController.java:16) - getExceptionLogger===日志测试
